@@ -1,3 +1,2 @@
-a = 'Life is good'
-print a[0:]
 
+print "i eat %d apple %s" % (3,"When Last Day")

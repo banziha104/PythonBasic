@@ -4,6 +4,7 @@
 문자열에서 문자열을 추출하는 방법
 a[0:4]에서 마지막 글자는 포함되지 않음, a[0:3]의 경우 'Lif'가출력됨
 <li> 일반적인 사용방법
+
 ```python
 a = 'Life is good'
 print a[0:4]
@@ -11,7 +12,46 @@ print a[0:4]
 ```
 
 <li> 뒷글자를 생략하는 경우
-```py
+
+```python
+print a[1:]
+#값 : ife is good;
+```
+
+<li> 앞글자를 생략하는 경우
+
+```python
+print a[:10]
+#Life is go
+```
+
+<li>양쪽글자를 생략하는 경우
+
+```python
+print a[:]
+#Life is good
+```
+
+<li> 문자열 나누기
+
+```python
+first = a[0:4]
+last = a[4:]
+```
+
+### 문자열 포메팅
+C언어의 프린트문과 유사
+
+```python
+"i eat %d apple %s" % (3,"When Last Day");
+```
+
+
+
+
+
+
+
 
 
 
