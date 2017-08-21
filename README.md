@@ -46,6 +46,18 @@ C언어의 프린트문과 유사
 "i eat %d apple %s" % (3,"When Last Day");
 ```
 
+### 문자열 관련 함수
+
+<li> count() : 문자 개수 세기
+<li> find('a') : 해당 문자의 첫 번째 인덱스를 가져옮(없는 경우 -1 반환)
+<li> index('a'):  해당 문자의 첫 번째 인덱스를 가져옮(없는 경우 오류 발생)
+<li> upper() : 소문자를 대문자로 바꿈
+<li> lower() : 대문자를 소문자로 바꿈
+<li> lstrip() : 왼쪽 공백 삭제
+<li> rstrip() : 오른쪽 공백 삭제
+<li> strip() : 양 쪽 공백 삭제
+<li> replace('str1','str2') : str1을 str2로 변경
+<li> split() : 문자열을 나눔
 
 
 
