@@ -383,6 +383,17 @@ def sum_many(*args):
     return sum
 ```
 
+<li> 리턴 값이 두개 이상 인 경우
+
+```python
+
+def sum_and_mul(a,b):
+    return a+b,a*b   # 반환 값은 (a+b,a*b)의 튜플로 생성됨
+# 만약 두개를 따로 받고 싶다면
+
+sum, mul = sum_and_mul(3,7) ##이 경우 sum에는 10이 mul에는 21이 들어감
+```
+
 
 
 
