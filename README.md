@@ -394,6 +394,19 @@ def sum_and_mul(a,b):
 sum, mul = sum_and_mul(3,7) ##이 경우 sum에는 10이 mul에는 21이 들어감
 ```
 
+<li> 입력 인수에 초깃값 미리 설정하기
+
+```python
+def say_myself(name,old,man=True) : #초기화 시키고 싶은 것은 뒤에 위치해야함
+    print("이름 %s" % name)
+    print("나이 %d" % old)
+    if man :
+        print("남자")
+    else :
+        print("여자")
+```
+
+
 
 
 
