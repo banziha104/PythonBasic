@@ -509,6 +509,10 @@ with open("C:/Python/새파일","w") as f : # with 작업 내용 as 변수 :
 
 ```
 
+<li> [클래스](www.naver.com).
+
+
+
 
 
 
