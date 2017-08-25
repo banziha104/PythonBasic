@@ -21,7 +21,7 @@
 
 - ### [입력과 출력](https://github.com/banziha104/PythonBasic/blob/master/Study/IO.md)
 
-- ### [파일 입출력](https://github.com/banziha104/PythonBasic/blob/master/Study/FileIO.md)
+- ### [파일 입출력](https://github.com/banziha104/PythonBasic/blob/master/Study/File.md)
 
 # 파이썬 핵심
 
