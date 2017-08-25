@@ -1,40 +1,39 @@
 # Python 기본
 
-[문자열](https://github.com/banziha104/PythonBasic/blob/master/Study/String.md)
+- ### [문자열](https://github.com/banziha104/PythonBasic/blob/master/Study/String.md)
 
-[리스트](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [리스트](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
 
-[딕셔너리](https://github.com/banziha104/PythonBasic/blob/master/Study/Dictionary.md)
+- ### [딕셔너리](https://github.com/banziha104/PythonBasic/blob/master/Study/Dictionary.md)
 
-[집합](https://github.com/banziha104/PythonBasic/blob/master/Study/Set.md)
+- ### [집합](https://github.com/banziha104/PythonBasic/blob/master/Study/Set.md)
 
 
 # 제어문
 
----
-[조건문](https://github.com/banziha104/PythonBasic/blob/master/Study/If.md)
+- ### [조건문](https://github.com/banziha104/PythonBasic/blob/master/Study/If.md)
 
-[반복문](https://github.com/banziha104/PythonBasic/blob/master/Study/Loop.md)
+- ### [반복문](https://github.com/banziha104/PythonBasic/blob/master/Study/Loop.md)
 
-[함수](https://github.com/banziha104/PythonBasic/blob/master/Study/Function.md)
+- ### [함수](https://github.com/banziha104/PythonBasic/blob/master/Study/Function.md)
 
-#입출력
+# 입출력
 
-[입력과 출력](https://github.com/banziha104/PythonBasic/blob/master/Study/IO.md)
+- ### [입력과 출력](https://github.com/banziha104/PythonBasic/blob/master/Study/IO.md)
 
-[파일 입출력](https://github.com/banziha104/PythonBasic/blob/master/Study/FileIO.md)
+- ### [파일 입출력](https://github.com/banziha104/PythonBasic/blob/master/Study/FileIO.md)
 
 # 파이썬 핵심
 
-[클래스](https://github.com/banziha104/PythonBasic/blob/master/Study/Class.md)
+- ### [클래스](https://github.com/banziha104/PythonBasic/blob/master/Study/Class.md)
 
-[a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
 
-[a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
 
-[a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
 
-[a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
 
 
 
