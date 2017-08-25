@@ -1,6 +1,6 @@
 <li>
 
-[문자열](www.github.com/banziha104/PythonBasic/Study/String.md)
+[문자열](https://github.com/banziha104/PythonBasic/blob/master/Study/String.md)
 #리스트 자료형
 
 배열과 동일함
