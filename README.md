@@ -508,8 +508,9 @@ with open("C:/Python/새파일","w") as f : # with 작업 내용 as 변수 :
     f.write("Life is too short,you need python")    
 
 ```
+<li> 
 
-<li> [클래스](www.naver.com).
+[클래스](www.naver.com).
 
 
 
