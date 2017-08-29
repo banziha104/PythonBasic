@@ -27,9 +27,9 @@
 
 - ### [클래스](https://github.com/banziha104/PythonBasic/blob/master/Study/Class.md)
 
-- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [모듈](https://github.com/banziha104/PythonBasic/blob/master/Study/Module.md)
 
-- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [패키지](https://github.com/banziha104/PythonBasic/blob/master/Study/Package2.md)
 
 - ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
 
