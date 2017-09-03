@@ -31,9 +31,9 @@
 
 - ### [패키지](https://github.com/banziha104/PythonBasic/blob/master/Study/Package2.md)
 
-- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [예외처리](https://github.com/banziha104/PythonBasic/blob/master/Study/Exception.md)
 
-- ### [a](https://github.com/banziha104/PythonBasic/blob/master/Study/List.md)
+- ### [내장함수](https://github.com/banziha104/PythonBasic/blob/master/Study/BuiltInFunction.md)
 
 
 
