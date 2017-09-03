@@ -66,7 +66,7 @@ for num in a :
     result.append(num * 3)
 ```
 
-<li> for 문 안에 if 문 넣기
+<li> 리스트 내포
 원형 : 표현식 for 항목 in 반복 가능 객체 if 조건 
 
 ```python
