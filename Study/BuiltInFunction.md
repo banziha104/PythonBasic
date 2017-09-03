@@ -188,3 +188,10 @@ str('hi')  # 'hi'
 ```python
 list(zip([1,2,3],[4,5,6])) # [(1,4),(2,5),(3,6)]
 ```
+
+<li> lambda : 람다 표현법
+
+```python
+sum = lambda a,b : a+b
+#lambda 인수1,인수 : 인수를 이용한 표현식
+```

@@ -35,6 +35,9 @@
 
 - ### [내장함수](https://github.com/banziha104/PythonBasic/blob/master/Study/BuiltInFunction.md)
 
+- ### [외장함수](https://github.com/banziha104/PythonBasic/blob/master/Study/ExternalFunction.md)
+
+
 
 
 
