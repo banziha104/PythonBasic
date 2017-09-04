@@ -100,3 +100,7 @@ time.asctime(time.localtime(time.time())) # Sat Apr 28 20:50:20
 <li> random.shuffle(list) : list를 무작위로 섞음
 
 ---
+
+```python
+aaaa
+```
